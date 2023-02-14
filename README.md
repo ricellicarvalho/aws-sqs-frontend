@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/38559002/218804399-0deb9611-aa27-444b-aad6-749a1995f22b.png">
+</p>
 <h1 align="center" id="top">AWS SQS - FRONTEND</h1>
 
 <p align="center">
