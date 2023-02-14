@@ -1,0 +1,18 @@
+{
+  "name": "aws-sqs-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [],
+  "author": "Ricelli Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1306.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
