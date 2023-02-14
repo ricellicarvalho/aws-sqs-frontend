@@ -4,11 +4,6 @@
 <h1 align="center" id="top">AWS SQS - FRONTEND</h1>
 
 <p align="center">
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/ricellicarvalho/aws-sqs-frontend">  
-  <img alt="License" src="https://img.shields.io/badge/license-ISC-brightgreen">  
-</p>
-
-<p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#hammer_and_wrench-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
