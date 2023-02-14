@@ -59,8 +59,14 @@ This project was developed with the following technologies:
 # Clone this repository
 $ git clone git@github.com:ricellicarvalho/aws-sqs-frontend.git
 
+# Enter the application
+$ cd aws-sqs-frontend
+
 # Install dependencies
 $ npm install
+
+# Run the command:
+$ npm start
 ```
 Open the browser at the following url to access the application [`http://localhost:3000`](http://localhost:3000)
 
